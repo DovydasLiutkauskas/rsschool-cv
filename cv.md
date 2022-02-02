@@ -1,9 +1,12 @@
-# Dovydas 'Junior Developer Resume'
+# Dovydas - 'Junior Developer Resume'
 
 ## Contact information
 **First Name:** Dovydas
+
 **Last Name:** Liutkauskas
+
 **Email:** dovydas.liutkauskas@gmail.com
+
 **Contact me on:** https://www.linkedin.com/in/dovydas-liutkauskas-187087138/
 
 ## Summary about myself
